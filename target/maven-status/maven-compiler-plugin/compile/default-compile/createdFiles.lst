@@ -1,0 +1,4 @@
+com\taizo\TaizoJavaApplication.class
+com\taizo\model\CanLeadModel.class
+com\taizo\controller\admin\CandidateController.class
+com\taizo\repository\CanLeadRepository.class
